@@ -1,0 +1,15 @@
+html, body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(69, 95, 87);
+}
+
+h1{
+    margin: 0;
+    font-size: 60px;
+    padding: 11px;
+    border: dotted rgb(0, 225, 255) 5px;
+}
